@@ -1,0 +1,39 @@
+[sprite015787_32_102x47] disable
+[sprite015788_32_102x47] hover
+[sprite015789_32_102x47] press
+Cancel
+Annuler
+
+[sprite015791_32_102x47] disable
+[sprite015792_32_102x47] hover
+[sprite015793_32_102x47] press
+Restore
+Charger
+
+[sprite015800_32_105x51] disable
+[sprite015801_32_105x51] hover
+[sprite015802_32_105x51] press
+No
+Non
+
+[sprite015803_32_105x51] disable
+[sprite015804_32_105x51] hover
+[sprite015805_32_105x51] press
+Yes
+Oui
+
+[sprite015807_32_102x47] (identique à sprite015787_32_102x47)
+[sprite015808_32_102x47] (identique à sprite015788_32_102x47)
+[sprite015809_32_102x47] (identique à sprite015789_32_102x47)
+
+[sprite015810_32_102x47] disable
+[sprite015811_32_102x47] hover
+[sprite015812_32_102x47] press
+Delete
+Supprimer
+
+[sprite015813_32_102x47] disable
+[sprite015814_32_102x47] hover
+[sprite015815_32_102x47] press
+Save
+Sauver

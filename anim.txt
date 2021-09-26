@@ -1,0 +1,135 @@
+[YouAreHere]
+template: map.tga
+11 fichiers
+sprite015315_32_207x205.tga
+sprite015325_32_207x205.tga
+You are here
+Vous êtes ici
+
+[SideGlass_Hiiiii]
+template: side_board.tga
+71 fichiers
+sprite013888_32_290x182.tga
+sprite013958_32_290x182.tga
+Hiiii!!
+Salut!!
+
+[Board_BreakTheWindow]
+template: board.tga
+77 fichiers
+sprite004682_32_38x81.tga
+sprite004758_32_38x81.tga
+BREAK THE WINDOW!
+BRISE LA FENÊTRE !
+
+[Board_CMonJustBreak]
+template: board.tga
+77 fichiers
+sprite004759_32_38x81.tga
+sprite004835_32_38x81.tga
+C'MON JUST BREAK IT!
+ALLEZ, CASSE-LA !
+
+[Board_GetInHere]
+template: board.tga
+53 fichiers
+sprite004629_32_38x81.tga
+sprite004681_32_38x81.tga
+GET IN HERE!
+ENTRE ICI !
+
+[Board_Hiiii]
+template: board.tga
+35 fichiers
+sprite004415_32_38x81.tga
+sprite004449_32_38x81.tga
+Hiiii!!
+Salut!!
+
+[Board_Please]
+template: board.tga
+32 fichiers
+sprite004597_32_38x81.tga
+sprite004628_32_38x81.tga
+PLEASE
+S’IL TE PLAÎT
+
+[Board_WeNeedHelp]
+template: board.tga
+69 fichiers
+sprite004528_32_38x81.tga
+sprite004596_32_38x81.tga
+WE NEED HELP! :()
+A L'AIDE! :() (ou) NOUS AVONS BESOIN D'AIDE ! :)
+
+[Board_WowThatWasBad]
+template: board.tga
+68 fichiers
+sprite004528_32_38x81.tga
+sprite004596_32_38x81.tga
+YES I'M TALKING TO U
+WOUAH C'ÉTAIT MAL
+
+[Board_YITalkingToU]
+template: board.tga
+78 fichiers
+sprite004450_32_38x81.tga
+sprite004527_32_38x81.tga
+YES I'M TALKING TO U
+OUI, JE TE PARLE
+
+[Glass_IamAGhost]
+template: glass.tag
+118 fichiers
+sprite003713_32_179x72.tga
+sprite003830_32_179x72.tga
+I'm a ghost wooooooo :)
+Je suis un fantôme wooooooo :)
+
+[Glass_YouAreTalkingWithAGhost]
+template: glass.tag
+94 fichiers
+sprite003831_32_179x72.tga
+sprite003924_32_179x72.tga
+You're talking to a ghost wooo!
+Tu parles à un fantôme, wooo !
+
+[Glass_GhostPower]
+template: glass.tag
+92 fichiers
+sprite003925_32_179x72.tga
+sprite004016_32_179x72.tga
+GHOST POWERS wooooooo :p
+(laisser identique) ???
+
+[Glass_BecauseImGhost]
+template: glass.tag
+89 fichiers
+sprite004017_32_179x72.tga
+sprite004105_32_179x72.tga
+Because I'm a ghost. DUH!
+Parce que je suis un fantôme. SANS BLAGUE!
+
+[Glass_WaitingForHelp]
+template: glass.tag
+114 fichiers
+sprite004106_32_179x72.tga
+sprite004219_32_179x72.tga
+Waiting for help.
+Attendant de l'aide.
+
+[Glass_PleaseHurryGoThisWay]
+template: glass.tag
+95 fichiers
+sprite004220_32_179x72.tga
+sprite004314_32_179x72.tga
+Please hurry. Go this way.
+Vite. Va par là.
+
+[Glass_HiYouMoadeIt]
+template: glass.tag
+65 fichiers
+sprite004350_32_179x72.tga
+sprite004414_32_179x72.tga
+Hi! You made it !
+Salut ! Tu as réussi !

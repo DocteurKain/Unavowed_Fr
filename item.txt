@@ -1,0 +1,430 @@
+[sprite002547_32_640x360]
+DAUGHTER OF GAIA TAKE THIS OFFERING BRING YOUR LIFE AND JOIN US IN HARMONY SO MOTE IT BE.
+
+FILLE DE GAIA, PRENDS CETTE OFFRANDE, APPORTE TA VIE ET REJOINS-NOUS EN HARMONIE, QU'IL EN SOIT AINSI.
+
+
+[sprite007088_32_640x360]
+Be sure of one thing, Santiana:
+You are not insane.
+You are not the one who's crazy.
+The key is to look under the crazy.
+Don't forget.
+
+Sois sûre d'une chose, Santiana :
+Tu n'es pas folle.
+Ce n'est pas toi qui es folle.
+Le secret, c'est de regarder sous la folie.
+N'oublie pas.
+
+
+[sprite007089_32_640x360]
+RE: Notice of termination
+Dear Ms. Santiana:
+We are deeply saddened to inform you that you position at the Staten Island Police Departent is suspended. Due to you violation of our Officer Code of Conduct Section 3 a) we have no ??? but to end your employment with us, effective immediately.
+Please turn in you badge and associated IDs to Captain Harrison.
+We are aware of the extraodinary circumstances surrounding you situation, and aggree to ??? this decision pending psychological evaluation.
+
+RE : Avis de licenciement
+Chère Madame Santiana :
+Nous avons la tristesse de vous informer que votre poste au sein de la Police de Staten Island est suspendu. En raison de votre violation du code de conduite des officiers, section 3 a), nous n'avons pas d'autre choix que de mettre fin à votre emploi chez nous, avec effet immédiat.
+Veuillez rendre vos badge et pièces d'identité au capitaine Harrison.
+Nous sommes conscients des circonstances extraordinaires qui entourent votre situation, et acceptons de prendre cette décision en attendant une évaluation psychologique.
+
+
+[sprite007092_32_640x360]
+Guy Lapuda
+Retired?? Where is he?
+Marlene Demarco
+-found in alley
+-missing 1 week
+-chewed to pieces
+Jonny Viterella
+-found on dock
+-missing 4 days
+-heart torn out!
+Me
+Pam Pranl
+-found in bathroom
+-missing 6 days
+-throat crashed
+Russ Stephani
+-found on street
+-missing 1 week
+-head bashed in
+
+Guy Lapuda
+Retraité ? Où est-il ?
+Marlene Demarco
+-trouvée dans une ruelle
+-disparue depuis 1 semaine
+-coupée en morceaux
+Jonny Viterella
+-trouvé sur un quai
+-disparu depuis 4 jours
+-coeur arraché !
+Moi
+Pam Pranl
+-trouvée dans la salle de bain
+-disparue depuis 6 jours
+-gorge écrasée
+Russ Stephani
+-trouvée dans la rue
+-disparu depuis 1 semaine
+-tête défoncée
+
+
+[sprite007530_32_640x360]
+PW={HEART}
+
+???
+
+
+[sprite007690_32_640x360]
+Full Power
+Full Stop
+Raise/Lower Flag
+
+Pleine puissance
+Arrêt complet
+Drapeau levé/baissé
+
+
+[sprite008189_32_640x360]
+For Mary Jane:
+May the roses that bloom from you beloved shell be as sweet and full of joy as the beautiful soul that left it behind.
+
+Pour Mary Jane :
+Que les roses qui fleurissent de votre enveloppe bien-aimée soient aussi douces et pleines de joie que la belle âme qui l'a laissée derrière elle.
+
+
+[sprite008542_32_640x360]
+The combatants shall be known as: Kalash and Valene
+The prisoners shall remain incarcerated until one the combattants is dead
+Whoever deals the death blow shall be declared the winner.
+The winner shall have their wish granted.
+
+Les combattants sont connus sous le nom de : Kalash et Valene
+Les prisonniers resteront incarcérés jusqu'à ce que l'un des combattants soit mort.
+Celui qui portera le coup fatal sera déclaré vainqueur.
+Le vainqueur verra son souhait exaucé.
+
+
+[sprite010360_32_640x360]
+MISSING
+Elijah Cook
+Age: 3 months
+Sex: Male
+Race: Biracial
+Hair: Black
+Eyes: Brown
+Height: 2'0"
+Address: 387 Battery Place, Apt #4E
+Missing since: May 17, 2017
+ELIJAH WAS LAST SEEN OUTSIDE HIS HOME AT 387 BATTERY PLACE. HE WAS ALLEGEDLY ABDUCTED FROM INSIDE HIS STROLLER.
+HE WAS WEARING A TAN KNIT CAP AND A WHITE ONESIE. HE IS HALF CHINESE, HALF CAUCASIAN.
+PLEASE CONTACT THE POLICE WITH ANY INFORMATION.
+
+AVIS DE RECHERCHE
+Elijah Cook
+Age : 3 mois
+Sexe : Masculin
+Race : Biracial
+Cheveux : Noirs
+Yeux : bruns
+Taille : 60cm
+Adresse : 387 Battery Place, App #4E
+Disparu depuis le 17 mai 2017
+ELIJAH A ÉTÉ VU POUR LA DERNIÈRE FOIS DEVANT SA MAISON AU 387 BATTERY PLACE. IL AURAIT ÉTÉ ENLEVÉ DANS SA POUSSETTE.
+IL PORTAIT UN BONNET TRICOTÉ BEIGE ET UNE GRENOUILLÈRE BLANCHE. IL EST MI-CHINOIS, MI-CAUCASIEN.
+VEUILLEZ CONTACTER LA POLICE POUR TOUTE INFORMATION.
+
+
+[sprite010361_32_640x360]
+Financial Sector Profits As A% of All Domestic Corporate Profits
+
+Bénéfices du secteur financier en % de l'ensemble des bénéfices des entreprises nationales
+
+
+[sprite010362_32_640x360]
+Everything I say is a LIE
+
+Tout ce que je dis est un MENSONGE
+
+
+[sprite010363_32_640x360]
+No
+
+Non
+
+
+[sprite010364_32_640x360]
+Please let me confess. I will burn it I promise.
+
+S'il vous plaît, laissez-moi me confesser. Je vais le brûler, je le promets.
+
+
+[sprite010365_32_640x360]
+I took your child, Travis.
+Fellows made me do it.
+I am so sorry.
+Fellows made me do it.
+FELLOWS MADE ME DO IT!!!
+
+J'ai pris ton enfant, Travis.
+Mes amis m'ont forcé à le faire.
+Je suis vraiment désolée.
+Mes amis m'a fait faire ça.
+MES AMIS M'ONT FAIT FAIRE ÇA ! !!
+
+
+[sprite010366_32_640x360]
+I can't confess.
+I can only write it down.
+Then burn it.
+I can't break free.
+I can't escape.
+Help. Someone.
+
+Je ne peux pas me confesser.
+Je peux seulement l'écrire.
+Puis le brûler.
+Je ne peux pas me libérer.
+Je ne peux pas m'échapper.
+A l'aide. S'il-vous plait.
+
+
+[sprite010379_32_640x360]
+Reminder:
+BEAR
+
+Rappel :
+OURS
+
+
+[sprite010381_32_640x360]
+
+
+
+[sprite010387_32_169x185]
+LEGS
+
+JAMBES
+
+
+[sprite010388_32_640x360]
+[sprite010389_32_640x360]
+[sprite010390_32_640x360]
+MAN
+SNAKE
+DOG
+OLD MAN
+
+HOMME
+SERPENT
+CHIEN
+VIEILLARD
+
+
+[sprite010423_32_640x360]
+Coffee
+Tea
+Water
+Cola
+OJ
+Coconut water
+Assorted snacks
+
+Café
+Thé
+Eau
+Cola
+Jus d'orange
+Eau de coco
+En-cas assortis
+
+
+[sprite010467_32_640x360]
+August 22
+Moving day! A bit far from campus but it's MINE. Art and Jess seem like an OK couple. Artists, I think. They're renting this room out for what my dad would have called "a song."
+Oh dad. I miss you so much.
+Taking a full load of courses this semester. Can't lose my scholarship after all that's happened. Decided to keep this journal to keep myself focused. Keeping old Arabelle up on the shelf for inspiration. She's looking a little thread-bare these days.
+September 3
+Jess offered me a hit off a bong this morning. At BREAKFAST. Didn't realize they were such major potheads. Their dog named "Mary Jane" should have been my first clue. I swear Jess dotes more on that dog than she would her own kid.
+September 17
+The Eddings are out of some artist gallery opening thing. That dog is outside my bedroom door, barking and whining while I'm trying to study BioChem. Should I let her in? This is my "Dana's studying hour", but hey, cute dog.
+
+22 août
+Jour de déménagement ! Un peu loin du campus mais c'est le MIEN. Art et Jess semblent être un bon couple. Des artistes, je pense. Ils louent cette chambre pour ce que mon père aurait appelé "une chanson".
+Oh papa. Tu me manques tellement.
+J'ai pris énormément de cours ce semestre. Je ne peux pas perdre ma bourse après tout ce qui s'est passé. J'ai décidé de tenir ce journal pour rester concentré. Je garde la vieille Arabelle sur l'étagère pour l'inspiration. Elle a l'air un peu dénudée ces jours-ci.
+3 Septembre
+Jess m'a offert un coup de bong ce matin. Au PETIT-DÉJEUNER. Je n'avais pas réalisé qu'ils étaient de grands consommateurs d'herbe. Leur chien nommé "Mary Jane" aurait dû être mon premier indice. Je jure que Jess adore ce chien plus que si c'était son propre enfant.
+17 septembre
+Les Eddings sont sortis pour l'ouverture d'une galerie d'art. Ce chien est devant la porte de ma chambre, aboyant et gémissant pendant que j'essaie d'étudier la biochimie. Je dois la laisser entrer ? C'est mon "heure d'étude de Dana", mais bon, joli chien.
+
+
+[sprite010468_32_640x360]
+My physics textbook now smells like DOG PISS! Stupid dog! I had to drag her out by the collar. Now she's howling outside my door. I'm blaring music but it's not enough. I need QUIET. I need to FOCUS.
+Art and Jess just came home. They are both high as hell. The dog shut up and became a perfect little angel. WTF. I think why this room was so cheap.
+September 18
+Told Jess what happened. She just shook her head. She tells me my room is where the dog used to sleep and is probably "just a little upset." Yeah. That makes two of us.
+September 19
+Art and Jess are out again. Left in that clunker car with that oh-so-clever vanity licence plate that Art loves so much. That barking rat is outside my door again. Scratching and howling.
+This is impossible. I only just STARTED my coursework and I'm already behind.
+
+Mon manuel de physique sent maintenant la PISSE DE CHIEN ! Stupide clébard ! J'ai dû la traîner dehors par le collier. Maintenant elle hurle devant ma porte. J'ai mis de la musique mais ça ne suffit pas. J'ai besoin de calme. J'ai besoin de me concentrer.
+Art et Jess viennent de rentrer. Ils sont tous les deux défoncés comme jamais. Le chien s'est tu et est devenu un parfait petit ange. Putain. Je me demandais pourquoi cette chambre était si bon marché.
+18 septembre
+J'ai dit à Jess ce qui s'est passé. Elle a juste secoué la tête. Elle me dit que ma chambre est l'endroit où le chien avait l'habitude de dormir et qu'il est probablement "juste un peu bouleversé". Ouais. On est deux.
+19 septembre
+Art et Jess sont encore sortis. Ils sont partis dans cette vieille voiture avec cette plaque d'immatriculation si intelligente qu'Art aime tant. Ce rat qui aboie est de nouveau devant ma porte. Il gratte et hurle.
+C'est impossible. Je viens juste de commencer mes cours et je suis déjà en retard.
+
+
+[sprite010469_32_640x360]
+FUCK. FUUUUCK. That mutt got in here. Don't ask me how. She got ahold of Arabelle. Peed on her. Then CHEWED HER ARM OFF. Nineteen years I've had that doll and she didn't get a scratch. She couldn't last three weeks in this stupid house. Art is too toked-up to care. Jess seems... sorry? It's hard to tell if its her or the weed. She said she'll sew the arm back on for me. Maybe she's not so bad.
+October 3
+I want to SCREAM. Arabelle is still in pieces. The dog keeps barking whenever they go out. Haven't been able to study ALL. I can't stay here, but I can't afford anywhere else. I can't lose my scholarship. What the hell am I going to do? Dad, I'm so sorry.
+October 23
+I met this strange person on the bus today. I don't know why, but I ended up spilling my guts. I got told... something. Something I can't put in writing. But I now know what to do. It's finally perfecly clear.
+Listen up reefer dog. My GPA isn't going down. YOU are.
+
+PUTAIN. PUUUUTAIN. Ce bâtard est entré ici. Ne me demandez pas comment. Elle a s'est emparé d'Arabelle. Lui a pissé dessus. Puis lui a mâchouillé le bras. Ça fait dix-neuf ans que j'ai cette poupée et elle n'avait même pas une égratignure. Elle n'a pas pu tenir trois semaines dans cette stupide maison. Art est trop défoncé pour s'en soucier. Jess a l'air... désolé ? C'est difficile de dire si c'est elle ou la beuh. Elle a dit qu'elle recoudrait le bras pour moi. Peut-être qu'elle n'est pas si mauvaise.
+3 octobre
+J'ai envie de CRIER. Arabelle est toujours en morceaux. Le chien aboie chaque fois qu'ils sortent. Je n'ai pas pu étudier du tout. Je ne peux pas rester ici, mais je ne peux pas me permettre d'aller ailleurs. Je ne peux pas perdre ma bourse d'études. Qu'est-ce que je vais bien pouvoir faire ? Papa, je suis vraiment désolée.
+23 octobre
+J'ai rencontré une personne étrange dans le bus aujourd'hui. Je ne sais pas pourquoi, mais j'ai fini par tout lui dire. Il m'a dit... quelque chose. Quelque chose que je ne peux pas mettre par écrit. Mais je sais maintenant ce que je dois faire. C'est enfin parfaitement clair.
+Ecoute-moi bien. Ma moyenne ne va pas baisser. TOI oui.
+
+
+[sprite011789_32_640x360]
+[sprite011790_32_640x360]
+[sprite011791_32_640x360]
+[sprite011792_32_640x360]
+join us for a BBQ
+FRANK AND ABBY SANTINA'S ANNIVERSAY BBQ!
+July 20th
+August 23rd
+June 18th
+May 25th
+6:00
+The Santina's backyard
+
+rejoignez-nous pour un barbecue
+UN BARBECUE POUR L'ANNIVERSAIRE DE FRANK ET ABBY SANTINA !
+20 juillet
+23 août
+18 juin
+25 mai
+18:00
+Le jardin des Santina
+
+
+[sprite012191_32_640x360]
+SMILING FRUIT GROCER
+256 Mott St
+New York, NY 10013
+July 12, 2017
+1/2lb BANANA
+2 GREEN ONIONS
+1 BOX TISSUE
+1 TOMATO
+6 APPLE
+SUBTOTAL
+TAX
+TOTAL
+
+ÉPICERIE SMILING FRUIT
+256 Mott Street
+New York, NY 10013
+12 juillet 2017
+3 BANANES
+2 OIGNONS VERTS
+1 BOITE TISSUE
+1 TOMATE
+6 POMMES
+SOUS-TOTAL
+TAXES
+TOTAL
+
+
+[sprite012192_32_640x360]
+The jade dragon prays five times, eats six fish and waters two fields
+The pearl dragon prays eight times, eats five fish and waters one fields
+The ruby dragon prays seven times, eats three fish and waters six fields
+The sapphir dragon prays three times, eats two fish and waters nine fields
+
+Le dragon de jade prie cinq fois, mange six poissons et arrose deux champs.
+Le dragon perle prie huit fois, mange cinq poissons et arrose un champ.
+Le dragon rubis prie sept fois, mange trois poissons et arrose six champs.
+Le dragon saphir prie trois fois, mange deux poissons et arrose neuf champs.
+
+
+[sprite012209_32_640x360]
+The Bā Jiāo Guǐ (香蕉鬼) which literraly means "Banana Ghost" is often described as a female spirit that lives in babana trees.
+In some folk tales from Malaysia, Thailand and Singapore, people who are greedy will summon the Bā Jiāo Guǐ for some lucky numbers in hope of winning a large amount of money.
+They tie a red ribbon around the tree trunk and then tie the often end of ribbon to their beds. Then they drink a strong sleeping potion to send them into a dreamless slumber.
+During sleep, the spirit appears and offers a set of winning numbers to caster in exchange for being set free.
+If the person does not fulfill his/her promise to set the ghost free after winning, his or her family will be cursed in this life and the next.
+This spirit is often likened to the Pontianak in Malay folklore.
+
+Le Bā Jiāo Guǐ (香蕉鬼) qui signifie littéralement "Fantôme de la Banane" est souvent décrit comme un esprit féminin qui vit dans les babaniers.
+Dans certains contes populaires de Malaisie, de Thaïlande et de Singapour, les personnes avides invoquent la Bā Jiāo Guǐ pour obtenir des numéros chanceux dans l'espoir de gagner une grosse somme d'argent.
+Ils nouent un ruban rouge autour du tronc d'arbre, puis attachent l'extrémité souvent du ruban à leur lit. Ils boivent ensuite une potion somnifère puissante qui les plonge dans un sommeil sans rêve.
+Pendant le sommeil, l'esprit apparaît et offre une série de numéros gagnants au lanceur de sorts en échange de sa libération.
+Si la personne ne tient pas sa promesse de libérer le fantôme après avoir gagné, sa famille sera maudite dans cette vie et dans la suivante.
+Cet esprit est souvent assimilé au Pontianak dans le folklore malais.
+
+[sprite012211_32_640x360]
+GRANT CITY TRUST
+Credit Card Statement
+WEIMING HUANG
+DRAGON TREE RESTAURANT
+23 Mott St
+New York, NY 10013
+Transaction Date	Transaction Description		Amount
+July 01, 2017		Payment - Thank You
+July 09, 2017		Bowery Restaurant Supply
+July 10, 2017		CityCo Electric & Utilities
+July 12, 2017		Smiling Fruit Grocer
+July 13, 2017		Green Cleaners
+
+GRANT CITY TRUST
+Relevé de carte de crédit
+WEIMING HUANG
+RESTAURANT DRAGON TREE
+23 Mott St
+New York, NY 10013
+Date de la transaction Description de la transaction Montant
+01 juillet 2017		Paiement - Merci
+09 juillet 2017		Approvisionnement Restaurant Bowery
+10 juillet 2017		CityCo Electric & Utilities
+12 juillet 2017		Épicerie Smiling Fruit
+13 juillet 2017		Green Cleaners
+
+
+[sprite012213_32_640x360]
+(fusion de sprite012191_32_640x360 et sprite012211_32_640x360)
+
+
+[sprite012218_32_640x360]
+// watermark sur le fond :)
+Kevin:
+Before you begin, find that herb I asked you to buy from Doug. Go to the kitchen and make a tea from it. It will help you sleep, and open your mind for what is to come.
+And remember, once the winners are annouced: PUT HER BACK.
+Sleep well. I love you.
+-Dad
+P.S. Make the bed in the morning so your mther doesn't kill us
+
+Kevin
+Avant de commencer, trouve l'herbe que je t'ai demandé d'acheter à Doug. Va à la cuisine et fais-en un thé. Ca t'aidera à dormir et à ouvrir ton esprit pour ce qui va suivre.
+Et rappelle-toi, une fois que les gagnants sont annoncés : REMETS-LA EN PLACE.
+Dors bien. Je t'aime.
+Papa
+P.S. Fais le lit le matin pour que ta mère ne nous tue pas.
+
+
+[sprite015912_32_640x360]
+// écrit trop petit, illisible
+
