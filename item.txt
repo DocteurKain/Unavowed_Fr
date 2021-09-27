@@ -173,8 +173,8 @@ FELLOWS MADE ME DO IT!!!
 
 J'ai pris ton enfant, Travis.
 Mes amis m'ont forcé à le faire.
-Je suis vraiment désolée.
-Mes amis m'a fait faire ça.
+Je suis vraiment désolé.
+Mes amis m'ont fait faire ça.
 MES AMIS M'ONT FAIT FAIRE ÇA ! !!
 
 
@@ -191,7 +191,7 @@ Je peux seulement l'écrire.
 Puis le brûler.
 Je ne peux pas me libérer.
 Je ne peux pas m'échapper.
-A l'aide. S'il-vous plait.
+À l'aide. S'il-vous plait.
 
 
 [sprite010379_32_640x360]
@@ -238,10 +238,10 @@ Assorted snacks
 Café
 Thé
 Eau
-Cola
+Soda
 Jus d'orange
-Eau de coco
-En-cas assortis
+Jus de coco
+Gateaux apéritifs
 
 
 [sprite010467_32_640x360]
@@ -255,7 +255,7 @@ September 17
 The Eddings are out of some artist gallery opening thing. That dog is outside my bedroom door, barking and whining while I'm trying to study BioChem. Should I let her in? This is my "Dana's studying hour", but hey, cute dog.
 
 22 août
-Jour de déménagement ! Un peu loin du campus mais c'est le MIEN. Art et Jess semblent être un bon couple. Des artistes, je pense. Ils louent cette chambre pour ce que mon père aurait appelé "une chanson".
+Jour du déménagement ! Un peu loin du campus mais c'est à MOI. Art et Jess semblent être un bon couple. Des artistes, je pense. Ils louent cette chambre pour ce que mon père aurait appelé "une chanson".
 Oh papa. Tu me manques tellement.
 J'ai pris énormément de cours ce semestre. Je ne peux pas perdre ma bourse après tout ce qui s'est passé. J'ai décidé de tenir ce journal pour rester concentré. Je garde la vieille Arabelle sur l'étagère pour l'inspiration. Elle a l'air un peu dénudée ces jours-ci.
 3 Septembre
